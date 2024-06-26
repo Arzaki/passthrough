@@ -10,7 +10,7 @@ function Sidenav(params) {
     return (
         
         <div id="layoutSidenav_nav">
-            <nav className="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+            <nav className="sb-sidenav accordion sb-sidenav-light" id="sidenavAccordion">
                 <div className="sb-sidenav-menu">
                     <div className="nav">
                         { userType.userType==="adm"?

@@ -15,7 +15,7 @@ function Header() {
   }
   return (
     <div>
-      <nav className="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+      <nav className="sb-topnav navbar navbar-expand navbar-dark navbar-gradient">
         <a className="navbar-brand ps-3" href="/Dashboard">
           Dashboard
         </a>
